@@ -1,0 +1,5 @@
+streamlit==1.12.2
+altair==4.2.0
+yfinance==0.1.74
+matplotlib.pyplot
+pandas
